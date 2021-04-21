@@ -45,9 +45,16 @@ li {
     right: 10rem;
 
 }
+.shop-item2 {
+    left: 30px;
+}
 .shop-item3 {
     position: absolute;
     right: 10rem;
+}
+.shop-items span {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
 }
 .cart {
     background-color: white;
@@ -106,5 +113,9 @@ footer {
     }
     .shop-items {
         text-align: center;
+    }
+    .shop-items span {
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        font-size: 30px;
     }
 }
